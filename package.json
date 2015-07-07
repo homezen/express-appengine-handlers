@@ -1,0 +1,33 @@
+{
+  "name": "express-appengine-handlers",
+  "version": "1.0.0",
+  "description": "Lifecycle request handlers for express apps running in Google App Engine Managed VMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/home-buddy/express-appengine-handlers.git"
+  },
+  "keywords": [
+    "gae",
+    "appengine",
+    "google",
+    "vm"
+  ],
+  "author": "spaintrain <mcspainhower+npm@gmail.com>",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/home-buddy/express-appengine-handlers/issues"
+  },
+  "homepage": "https://github.com/home-buddy/express-appengine-handlers#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "proxyquire": "^1.6.0",
+    "supertest": "^1.0.1"
+  }
+}
