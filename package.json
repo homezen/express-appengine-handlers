@@ -1,6 +1,6 @@
 {
   "name": "express-appengine-handlers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lifecycle request handlers for express apps running in Google App Engine Managed VMs",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "vm"
   ],
   "author": "spaintrain <mcspainhower+npm@gmail.com>",
-  "license": "BSD-3",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/home-buddy/express-appengine-handlers/issues"
   },
