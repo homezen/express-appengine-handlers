@@ -13,5 +13,5 @@ app.use(aeHandlers);
 app.listen(1337);
 ```
 
-You can now test by going to `http://localhost:1337/_ah_health`
+You can now test by going to `http://localhost:1337/_ah/health`
 
