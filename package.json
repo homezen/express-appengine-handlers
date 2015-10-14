@@ -4,7 +4,8 @@
   "description": "Lifecycle request handlers for express apps running in Google App Engine Managed VMs",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test.js"
+    "test": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "express": "^4.13.1"
   },
   "devDependencies": {
+    "istanbul": "^0.3.22",
     "mocha": "^2.2.5",
     "proxyquire": "^1.6.0",
     "supertest": "^1.0.1"
