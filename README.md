@@ -9,6 +9,12 @@
 
 Lifecycle request handlers for express apps running in [Google App Engine Managed VMs](https://cloud.google.com/appengine/docs/managed-vms/)
 
+### Install
+
+```bash
+npm i --save express-appengine-handlers
+```
+
 ### Usage
 
 ```js
