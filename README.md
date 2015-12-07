@@ -7,6 +7,7 @@
 [![npm version](https://badge.fury.io/js/express-appengine-handlers.svg)](http://badge.fury.io/js/express-appengine-handlers)
 [![Dependency Status](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb)
 [![Package Quality](http://npm.packagequality.com/shield/express-appengine-handlers.svg)](http://packagequality.com/#?package=express-appengine-handlers)
+[![bitHound Overalll Score](https://www.bithound.io/github/home-buddy/express-appengine-handlers/badges/score.svg)](https://www.bithound.io/github/home-buddy/express-appengine-handlers)
 
 Lifecycle request handlers for express apps running in [Google App Engine Managed VMs](https://cloud.google.com/appengine/docs/managed-vms/)
 
