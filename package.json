@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/home-buddy/express-appengine-handlers#readme",
   "dependencies": {
-    "codecov.io": "^0.1.6",
     "express": "^4.13.1"
   },
   "devDependencies": {
+    "codecov.io": "^0.1.6",
     "coveralls": "^2.11.4",
     "istanbul": "^0.4.0",
     "mocha": "^2.2.5",
