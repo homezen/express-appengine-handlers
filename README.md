@@ -4,9 +4,11 @@
 [![Circle CI](https://circleci.com/gh/homezen/express-appengine-handlers.svg?style=shield)](https://circleci.com/gh/homezen/express-appengine-handlers)
 [![codecov](https://codecov.io/gh/homezen/express-appengine-handlers/branch/master/graph/badge.svg)](https://codecov.io/gh/homezen/express-appengine-handlers)
 [![npm version](https://badge.fury.io/js/express-appengine-handlers.svg)](http://badge.fury.io/js/express-appengine-handlers)
-[![Dependency Status](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb)
 [![Package Quality](http://npm.packagequality.com/shield/express-appengine-handlers.svg)](http://packagequality.com/#?package=express-appengine-handlers)
-[![bitHound Overalll Score](https://www.bithound.io/github/home-buddy/express-appengine-handlers/badges/score.svg)](https://www.bithound.io/github/home-buddy/express-appengine-handlers)
+
+[![bitHound Overall Score](https://www.bithound.io/github/homezen/express-appengine-handlers/badges/score.svg)](https://www.bithound.io/github/homezen/express-appengine-handlers)
+[![bitHound Dependencies](https://www.bithound.io/github/homezen/express-appengine-handlers/badges/dependencies.svg)](https://www.bithound.io/github/homezen/express-appengine-handlers/master/dependencies/npm)
+[![bitHound Code](https://www.bithound.io/github/homezen/express-appengine-handlers/badges/code.svg)](https://www.bithound.io/github/homezen/express-appengine-handlers)
 
 Lifecycle request handlers for express apps running in [Google App Engine Managed VMs](https://cloud.google.com/appengine/docs/managed-vms/)
 
