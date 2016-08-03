@@ -1,9 +1,8 @@
 # express-appengine-handlers
 
-[![Build Status](https://travis-ci.org/home-buddy/express-appengine-handlers.svg?branch=master)](https://travis-ci.org/home-buddy/express-appengine-handlers)
-[![Circle CI](https://circleci.com/gh/home-buddy/express-appengine-handlers.svg?style=shield)](https://circleci.com/gh/home-buddy/express-appengine-handlers)
-[![Coverage Status](https://coveralls.io/repos/home-buddy/express-appengine-handlers/badge.svg?branch=master&service=github)](https://coveralls.io/github/home-buddy/express-appengine-handlers?branch=master)
-[![codecov.io](http://codecov.io/github/home-buddy/express-appengine-handlers/coverage.svg?branch=master)](http://codecov.io/github/home-buddy/express-appengine-handlers?branch=master)
+[![Build Status](https://travis-ci.org/homezen/express-appengine-handlers.svg?branch=master)](https://travis-ci.org/homezen/express-appengine-handlers)
+[![Circle CI](https://circleci.com/gh/homezen/express-appengine-handlers.svg?style=shield)](https://circleci.com/gh/homezen/express-appengine-handlers)
+[![codecov](https://codecov.io/gh/homezen/express-appengine-handlers/branch/master/graph/badge.svg)](https://codecov.io/gh/homezen/express-appengine-handlers)
 [![npm version](https://badge.fury.io/js/express-appengine-handlers.svg)](http://badge.fury.io/js/express-appengine-handlers)
 [![Dependency Status](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55edfc44211c6b0014001acb)
 [![Package Quality](http://npm.packagequality.com/shield/express-appengine-handlers.svg)](http://packagequality.com/#?package=express-appengine-handlers)
