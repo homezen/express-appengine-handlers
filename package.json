@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/home-buddy/express-appengine-handlers.git"
+    "url": "git+ssh://git@github.com/homezen/express-appengine-handlers.git"
   },
   "keywords": [
     "gae",
@@ -18,12 +18,12 @@
     "google",
     "vm"
   ],
-  "author": "spaintrain <mcspainhower+npm@gmail.com>",
-  "license": "BSD-3-Clause",
+  "author": "homezen",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/home-buddy/express-appengine-handlers/issues"
+    "url": "https://github.com/homezen/express-appengine-handlers/issues"
   },
-  "homepage": "https://github.com/home-buddy/express-appengine-handlers#readme",
+  "homepage": "https://github.com/homezen/express-appengine-handlers#readme",
   "dependencies": {
     "express": "^4.13.1"
   },
