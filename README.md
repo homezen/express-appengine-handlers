@@ -1,5 +1,7 @@
 # express-appengine-handlers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/homezen/express-appengine-handlers.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/homezen/express-appengine-handlers.svg?branch=master)](https://travis-ci.org/homezen/express-appengine-handlers)
 [![Circle CI](https://circleci.com/gh/homezen/express-appengine-handlers.svg?style=shield)](https://circleci.com/gh/homezen/express-appengine-handlers)
 [![codecov](https://codecov.io/gh/homezen/express-appengine-handlers/branch/master/graph/badge.svg)](https://codecov.io/gh/homezen/express-appengine-handlers)
