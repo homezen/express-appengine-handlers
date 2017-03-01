@@ -1,6 +1,6 @@
 {
   "name": "express-appengine-handlers",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Lifecycle request handlers for express apps running in Google App Engine Managed VMs",
   "main": "index.js",
   "scripts": {
