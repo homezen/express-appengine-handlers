@@ -13,7 +13,7 @@
 [![bitHound Code](https://www.bithound.io/github/homezen/express-appengine-handlers/badges/code.svg)](https://www.bithound.io/github/homezen/express-appengine-handlers)
 
 
-Lifecycle request handlers for express apps running in [Google App Engine Managed VMs](https://cloud.google.com/appengine/docs/managed-vms/)
+[Health checking request handlers](https://cloud.google.com/appengine/docs/flexible/nodejs/how-instances-are-managed#health_checking) for express apps running in [Google App Engine Flexible instances](https://cloud.google.com/appengine/docs/flexible/nodejs)
 
 ### Install
 
@@ -34,7 +34,3 @@ app.listen(1337);
 ```
 
 You can now test by going to `http://localhost:1337/_ah/health`
-
-### Notes
-
-App Engine Flex only supports `/_ah/health` at this time - you should not process, or handle `/_ah/start` or `/_ah/stop` via your application code.
