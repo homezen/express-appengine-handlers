@@ -17,18 +17,4 @@ describe('App Engine Handlers', function() {
             .expect('Content-Type', 'text/plain; charset=utf-8')
             .expect(200, 'ok', done);
     });
-
-    it('handles the start request properly', function(done) {
-        request(app)
-            .get('/_ah/start')
-            .expect('Content-Type', 'text/plain; charset=utf-8')
-            .expect(200, 'ok', done);
-    });
-
-    it('handles the stop request properly', function(done) {
-        request(app)
-            .get('/_ah/stop')
-            .expect('Content-Type', 'text/plain; charset=utf-8')
-            .expect(200, 'ok', done);
-    });
 });
