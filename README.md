@@ -34,3 +34,7 @@ app.listen(1337);
 ```
 
 You can now test by going to `http://localhost:1337/_ah/health`
+
+### Notes
+
+App Engine Flex only supports `/_ah/health` at this time - you should not process, or handle `/_ah/start` or `/_ah/stop` via your application code.
