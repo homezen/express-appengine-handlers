@@ -31,7 +31,7 @@
     "codecov.io": "^0.1.6",
     "istanbul": "^0.4.4",
     "mocha": "^4.0.0",
-    "proxyquire": "^1.6.0",
+    "proxyquire": "^2.0.0",
     "supertest": "^3.0.0"
   }
 }
